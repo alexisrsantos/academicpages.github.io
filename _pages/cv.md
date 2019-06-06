@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, University of Puerto Rico at Cayey, 2010
+* M.A. in Economics, University of Puerto Rico - Río Piedras, 2012
+* Ph.D in Applied Demography, University of Texas at SanAntonio, 2015
 
 Work experience
 ======
